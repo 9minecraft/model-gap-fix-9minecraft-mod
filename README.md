@@ -14,6 +14,7 @@ Loader: Fabric, NeoForge.
 |---|---|
 | 26.3 | Fabric |
 | 26.2 | Fabric, NeoForge |
+| 1.21.11 | Fabric |
 
 ## Source
 
